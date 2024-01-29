@@ -3,7 +3,7 @@
 
 #include <QWidget>
 #include <QList>
-#include <qcustomplot.h>
+#include <QCustomPlot\qcustomplot.h>
 
 namespace Ui {
 class HeatmapExample;

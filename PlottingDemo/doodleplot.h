@@ -2,7 +2,7 @@
 #define DOODLEPLOT_H
 
 #include <QWidget>
-#include <qcustomplot.h>
+#include <QCustomPlot\qcustomplot.h>
 
 namespace Ui {
 class DoodlePlot;

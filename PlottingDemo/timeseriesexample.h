@@ -4,7 +4,7 @@
 #include <QWidget>
 #include <QTimer>
 #include <QElapsedTimer>
-#include <qcustomplot.h>
+#include <QCustomPlot\qcustomplot.h>
 
 namespace Ui {
 class TimeSeriesExample;
